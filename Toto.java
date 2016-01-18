@@ -1,4 +1,4 @@
 public class Toto{
 
-	//This is toto
+	//This is Toto
 }
